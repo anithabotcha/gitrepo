@@ -1,0 +1,10 @@
+Identify Merge Conflicts:
+see the file in master branch then you will see both the data in a single file including branch
+names that are dividing with conflict messages 
+Resolve Conflicts:
+open file in VIM EDITOR and delete all the conflict dividers and save it!
+add git to that file and commit it with the command (git commit -m "merged and resolved the
+conflict issue in abc.txt")
+GIT REBASE: Git rebase is a Git command used to incorporate changes from one branch
+into another. It allows you to re-organize and streamline the commit history by moving or
+combining commits from one branch onto another.
