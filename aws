@@ -6,5 +6,5 @@ open file in VIM EDITOR and delete all the conflict dividers and save it!
 add git to that file and commit it with the command (git commit -m "merged and resolved the
 conflict issue in abc.txt")
 GIT REBASE: Git rebase is a Git command used to incorporate changes from one branch
-into another. It allows you to re-organize and streamline the commit history by moving or
+iithis ia 
 combining commits from one branch onto another.
